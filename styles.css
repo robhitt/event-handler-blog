@@ -16,6 +16,7 @@ body {
 input {
   background-color : cyan;
   color: #000;
+  margin 5px;
 }
 
 div {
@@ -45,16 +46,3 @@ div {
 }
 
 .div-over:hover { background-color: lightblue; }
-
-/*.div-on {
-  background-color: blue;
-}
-
-.div-off {
-  background-color: lightgrey
-}*/
-
-
-#second {
-
-}
